@@ -173,3 +173,11 @@
 <thumbnail>https://i.imgur.com/hVtC5br.png</thumbnail>
 <fanart>https://i.imgur.com/OO7t7xt.jpg</fanart>
 </item>
+
+<item>
+<title>A GRANDE FAMILIA</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLa1r8VqsOYhGtz6wfqTIXVTnNFhMm5O8L/?page=0</jsonrpc>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JsrtrqSyei9wENtJCbFfV0zBdy.jpg</thumbnail>
+<fanart>https://i.imgur.com/OO7t7xt.jpg</fanart>
+</item>
